@@ -1,0 +1,3 @@
+---
+- base/scripts:
+    remote_branch: refs/pull/36/merge
