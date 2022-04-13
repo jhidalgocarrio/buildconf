@@ -1,0 +1,11 @@
+{
+    "ruby.intellisense": false,
+    "ruby.codeCompletion": false,
+    "ruby.pathToBundler": "/home/javi/rock/dev/.autoproj/bin/autoproj",
+    "ruby.useBundler": true,
+    "ruby.lint": {
+        "rubocop": true
+    },
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
